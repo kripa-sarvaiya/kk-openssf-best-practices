@@ -1,3 +1,5 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13761/badge)](https://www.bestpractices.dev/projects/13761)
+
 # semver-bump
 
 A tiny, dependency-free command-line tool for bumping
